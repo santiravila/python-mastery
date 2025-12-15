@@ -2,4 +2,4 @@
 
 ## Phase 1: Foundations
 - [X] Setup Environment
-- [ ] CS50P Week 0
+- [X] CS50P Week 0
