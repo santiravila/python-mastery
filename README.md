@@ -7,3 +7,5 @@
 - [X] CS50P Week 2
 - [X] CS50P Week 3
 - [X] CS50P Week 4
+- [X] CS50P Week 5
+- [X] CS50P Week 6
